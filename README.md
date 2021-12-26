@@ -1,5 +1,7 @@
 # 😈 😈👿😈 😈
 
+
+<p align="center"> <a href="https://stackoverflow.com/users/8437099/kyun" target="blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow_kyun" /></a> </p>
 <!--
 **kyun/kyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
